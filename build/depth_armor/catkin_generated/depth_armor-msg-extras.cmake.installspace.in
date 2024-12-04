@@ -1,0 +1,2 @@
+set(depth_armor_MESSAGE_FILES "msg/TargetDetectionArray.msg")
+set(depth_armor_SERVICE_FILES "")

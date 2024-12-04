@@ -1,0 +1,8 @@
+prefix=/home/yuyu/workspace/rm/rm_workspace/install
+
+Name: depth_armor
+Description: Description of depth_armor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime

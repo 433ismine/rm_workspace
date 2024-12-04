@@ -1,0 +1,8 @@
+prefix=/home/yuyu/workspace/rm/rm_workspace/install
+
+Name: radar_vision
+Description: Description of radar_vision
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+depth_armor:radar_vision
+-DCATKIN_DEVEL_PREFIX=/home/yuyu/workspace/rm/rm_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/yuyu/workspace/rm/rm_workspace/install -G Unix Makefiles

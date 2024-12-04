@@ -1,0 +1,5 @@
+<launch>
+    <node name="inference_node" pkg="depth_armor" type="inference_node"/>
+
+    <node name="camera_node" pkg="depth_armor" type="camera_node"/>
+</launch>
